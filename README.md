@@ -21,7 +21,7 @@ Clone the repository:
 
 
 Copier le code
-git clone https://github.com/idrissbado/your-repo-name.git
+git clone https://github.com/idrissbado/dashbapp.git
 Install the necessary packages:
 
 
